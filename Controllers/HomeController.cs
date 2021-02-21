@@ -4,8 +4,9 @@ namespace Guns_of_the_Old_West.Controllers
 {
     public class HomeController : Controller
     {
-        public static int counter = 13;
+        public static int counter = 1;
         
+        [HttpGet]
         public IActionResult Index()
         {
             if (counter == 0)
@@ -20,6 +21,13 @@ namespace Guns_of_the_Old_West.Controllers
         public void Decrement()
         {
             counter--;
+        }
+
+        [HttpPost]
+        public IActionResult Index(int kogels)
+        {
+            counter = kogels;
+            return View(counter);
         }
 
         [HttpGet]
