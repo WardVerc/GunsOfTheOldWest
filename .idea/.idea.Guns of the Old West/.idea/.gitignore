@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Guns of the Old West.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Vives\Projecten Rider - WebDev\Guns of the Old West\.idea\.idea.Guns of the Old West\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

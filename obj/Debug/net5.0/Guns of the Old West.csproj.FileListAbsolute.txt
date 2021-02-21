@@ -1,0 +1,40 @@
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\appsettings.Development.json
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\appsettings.json
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\Guns of the Old West.exe
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\Guns of the Old West.deps.json
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\Guns of the Old West.runtimeconfig.json
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\Guns of the Old West.runtimeconfig.dev.json
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\Guns of the Old West.dll
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\ref\Guns of the Old West.dll
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\Guns of the Old West.pdb
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\Guns of the Old West.Views.dll
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\bin\Debug\net5.0\Guns of the Old West.Views.pdb
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.csprojAssemblyReference.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.AssemblyInfoInputs.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.AssemblyInfo.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.csproj.CoreCompileInputs.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.MvcApplicationPartsAssemblyInfo.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.RazorAssemblyInfo.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.RazorAssemblyInfo.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\staticwebassets\Guns of the Old West.StaticWebAssets.Manifest.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\staticwebassets\Guns of the Old West.StaticWebAssets.xml
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\scopedcss\bundle\Guns of the Old West.styles.css
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.TagHelpers.input.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.TagHelpers.output.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.RazorCoreGenerate.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.RazorTargetAssemblyInfo.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.RazorTargetAssemblyInfo.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.Views.pdb
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.dll
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\ref\Guns of the Old West.dll
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.pdb
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.genruntimeconfig.cache
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.csproj.CopyComplete
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\Home\Verkoop.cshtml.g.cs

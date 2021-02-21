@@ -1,0 +1,23 @@
+﻿@model Int32;
+
+<div class="text-center mt-1">
+    <h1 class="display-4">Guns of the Old West</h1>
+</div>
+
+<form method="post">
+<div class="mt-5" style="text-align: center;">
+    <button type="submit"
+          asp-action="Index"
+          style="
+         height: 200px; 
+         width:  200px; 
+         display: inline-block; 
+         background-color: lightgray;
+         border: 5px solid #555657;
+         border-radius:  50%;
+         cursor: pointer;
+">
+    </button>
+    <h2 class="mt-5">Nog @Model kogels</h2>
+</div>
+</form>
