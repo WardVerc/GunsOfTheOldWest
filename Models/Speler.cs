@@ -20,7 +20,8 @@ namespace Guns_of_the_Old_West.Models
         
         [DisplayName("Telefoonnummer")]
         [Required(ErrorMessage = "Dit veld is verplicht.")]
-        [StringLength(50, MinimumLength = 7,ErrorMessage = "Ongeldig telefoonnummer.")]
+        [StringLength(50, MinimumLength = 7,ErrorMessage = "Telefoonnummer moet minimum 7 cijfers bevatten.")]
+        [RegularExpression("^[0-9]*$", ErrorMessage = "Telefoonnummer mag enkel uit cijfers bestaan.")]
         public string Telefoon { get; set; }
         public int Counter { get; set; }
     }
