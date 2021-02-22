@@ -1,4 +1,5 @@
 ﻿using System;
+using Guns_of_the_Old_West.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Guns_of_the_Old_West.Controllers
@@ -70,9 +71,28 @@ namespace Guns_of_the_Old_West.Controllers
         [HttpGet]
         public IActionResult Winnaar()
         {
-            return View(counter);
+            Speler speler = new Speler();
+            
+            speler.Counter = counter;
+            return View(speler);
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Winnaar(Speler speler)
+        {
+            if (!ModelState.IsValid)
+            {
+                return RedirectToAction("Winnaar");
+            }
+            return RedirectToAction("Samenvatting", speler);
+        }
+
+        [HttpGet]
+        public IActionResult Samenvatting(Speler speler)
+        {
+            return View(speler);
+        }
         
     }
 }

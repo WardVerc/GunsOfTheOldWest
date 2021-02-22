@@ -39,3 +39,4 @@ D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of 
 D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Guns of the Old West.csproj.CopyComplete
 D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\Home\Verkoop.cshtml.g.cs
 D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\Home\Winnaar.cshtml.g.cs
+D:\Vives\Projecten Rider - WebDev\Guns of the Old West\obj\Debug\net5.0\Razor\Views\Home\Samenvatting.cshtml.g.cs
